@@ -1,4 +1,4 @@
-# 
+# Premium Visual Studio plugins for Mac OS | Open Source Visual Studio plugins for PC Windows. Featuring port-mapping and database-tools — optimized for maximum performance on every platform.
 
 
 
